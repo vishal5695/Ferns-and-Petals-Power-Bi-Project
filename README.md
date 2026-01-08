@@ -13,7 +13,7 @@ Dynamic Dashboards & Custom Themes for enhanced visual storytelling
 Data Cleaning, Transformation, and Filtering to ensure accurate and reliable insights
 
 ----
-**Key Metrics Covered**
+**📈Key Metrics Covered**
 
 | Metric                     | What It Shows                              |
 | -------------------------- | ------------------------------------------ |
