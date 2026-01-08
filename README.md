@@ -7,9 +7,11 @@ This project features a structured and interactive sales analysis dashboard for 
 The objective of this analysis is to support data-driven decision-making by transforming raw sales data into actionable business insights in a clean and intuitive format.
 
 **🛠️ Tools & Technologies Used:**
+
 Microsoft Power BI (Power Query, Data Modeling, DAX Measures, Interactive Visuals)
 Dynamic Dashboards & Custom Themes for enhanced visual storytelling
 Data Cleaning, Transformation, and Filtering to ensure accurate and reliable insights
+
 ----
 **Key Metrics Covered**
 | Metric                         | What It Shows                            |
