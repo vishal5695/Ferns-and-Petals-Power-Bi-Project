@@ -45,13 +45,13 @@ Data Cleaning, Transformation, and Filtering to ensure accurate and reliable ins
 
 **🎛️ Interactive Filtering Features**
 
-Interactive filters (Slicers) applied for:
+**Interactive filters (Slicers)** applied for:
 
-- Order Date (to analyze performance across different time periods)
+- **Order Date** (to analyze performance across different time periods)
 
-- City (to view city-wise sales and order distribution)
+- **City** (to view city-wise sales and order distribution)
 
-- Occasion (with multi-select support for occasion-based analysis)
+- **Occasion** (with multi-select support for occasion-based analysis)
 
 All filters are linked across multiple visuals, enabling real-time updates and a fully interactive dashboard experience
 
