@@ -25,6 +25,8 @@ Data Cleaning, Transformation, and Filtering to ensure accurate and reliable ins
 | **Top Order Cities**       | Cities with the highest number of orders   |
 
 
+----
+
 **📊 Dashboard Overview**
 
 **Occasion-wise Revenue Analysis** – Displays how sales are distributed across various occasions such as Anniversary, Diwali, and Raksha Bandhan.
@@ -39,3 +41,4 @@ Data Cleaning, Transformation, and Filtering to ensure accurate and reliable ins
 
 **Top 10 Cities by Order Volume** – Identifies cities with the highest number of orders.
 
+----
