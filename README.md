@@ -14,11 +14,23 @@ Data Cleaning, Transformation, and Filtering to ensure accurate and reliable ins
 
 ----
 **Key Metrics Covered**
-| Metric                         | What It Shows                            |
-| ------------------------------ | ---------------------------------------- |
-| **Total Orders**               | Number of orders placed by customers     |
-| **Total Revenue**              | Overall sales amount generated           |
-| **Average Spend per Customer** | Average amount spent by each customer    |
-| **Delivery Time**              | Average time taken to deliver orders     |
-| **Best-Selling Products**      | Top 5 products based on sales value      |
-| **Top Order Cities**           | Cities with the highest number of orders |
+
+| Metric                     | What It Shows                              |
+| -------------------------- | ------------------------------------------ |
+| **Total Orders**           | Total number of orders placed              |
+| **Total Revenue**          | Total sales amount generated               |
+| **Average Orders per Day** | Average number of orders received each day |
+| **Order Delivery Time**    | Average time taken to deliver an order     |
+| **Best-Selling Products**  | Top 5 products based on revenue            |
+| **Top Order Cities**       | Cities with the highest number of orders   |
+
+
+**📊 Dashboard Overview**
+
+**Occasion-wise Revenue Analysis** – Displays how sales are distributed across various occasions such as Anniversary, Diwali, and Raksha Bandhan.
+**Weekly Sales Trend** – Shows revenue patterns across different days of the week.
+**Category-wise Revenue** – Highlights customer buying trends across product categories.
+**Monthly Sales Performance** – Tracks revenue changes over different months to identify seasonal trends.
+**Top 5 Revenue-Generating Products** – Visual representation of products contributing the most to overall revenue.
+**Top 10 Cities by Order Volume** – Identifies cities with the highest number of orders.
+
