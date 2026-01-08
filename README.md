@@ -42,3 +42,17 @@ Data Cleaning, Transformation, and Filtering to ensure accurate and reliable ins
 **Top 10 Cities by Order Volume** – Identifies cities with the highest number of orders.
 
 ----
+
+**🎛️ Interactive Filtering Features**
+
+Interactive filters (Slicers) applied for:
+
+- Order Date (to analyze performance across different time periods)
+
+- City (to view city-wise sales and order distribution)
+
+- Occasion (with multi-select support for occasion-based analysis)
+
+All filters are linked across multiple visuals, enabling real-time updates and a fully interactive dashboard experience
+
+----
