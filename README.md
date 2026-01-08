@@ -28,9 +28,14 @@ Data Cleaning, Transformation, and Filtering to ensure accurate and reliable ins
 **📊 Dashboard Overview**
 
 **Occasion-wise Revenue Analysis** – Displays how sales are distributed across various occasions such as Anniversary, Diwali, and Raksha Bandhan.
+
 **Weekly Sales Trend** – Shows revenue patterns across different days of the week.
+
 **Category-wise Revenue** – Highlights customer buying trends across product categories.
+
 **Monthly Sales Performance** – Tracks revenue changes over different months to identify seasonal trends.
+
 **Top 5 Revenue-Generating Products** – Visual representation of products contributing the most to overall revenue.
+
 **Top 10 Cities by Order Volume** – Identifies cities with the highest number of orders.
 
